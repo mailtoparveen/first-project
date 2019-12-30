@@ -1,0 +1,22 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+5.  AMC related details for Storage and Switches
+6.  Check possibility of alert configure -  Hitachi Command Suit            -            No
+7.  How alerts are configured for Storage systems and SAN switches   -----    switch SNMP can be configured, not SMPT
+8.  Check possibility of automatic reports and what type of reports can be fetched
+9.  Prepare capacity report as per application
+10. Arrange a L1 training session
+11. Prepare current running issues/Wrong configuration and share plan of action 
+
+
+Alerts:
+
+
+VSP G800  NDC and NSD - not configured
+HUS150_93052072 -  SNMP disabled.  Email alert enabled for ndcrs@bureauveritas.com  and ronnie.delavenay@hds.com 
+HUS150_93052124 -   SNMP disabled.  Email alert enabled for ndcrs@bureauveritas.com  and ronnie.delavenay@hds.com
+HUS110  -    SNMP disabled.  Email alert enabled for ndcrs@bureauveritas.com  and ronnie.delavenay@hds.com
+
